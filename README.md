@@ -69,7 +69,7 @@ Using a string of random words (e.g., `BlueTigerRuns@Midnight!`) can be both sec
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 task-6-password-security/
 │── README.md          # Documentation
 │── screenshots/       # Screenshots from password strength tools
