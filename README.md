@@ -70,3 +70,13 @@ Using a string of random words (e.g., `BlueTigerRuns@Midnight!`) can be both sec
 ---
 
 ## 📂 Repository Structure
+task-6-password-security/
+│── README.md # Documentation
+│── screenshots/ # Screenshots from password strength tools
+
+---
+
+## 📌 Conclusion
+This task demonstrated how password length, complexity, and unpredictability significantly increase security against common attacks.
+
+
