@@ -23,8 +23,6 @@ To understand what makes a password strong by creating multiple passwords with v
 | !SkyHorse92^Wave   | 100%      | Very Strong    | Centuries         | Excellent length & complexity |
 | G7!pL0#r2WqT&8uB@  | 100%      | Very Strong    | Centuries         | Extremely strong random password |
 
-*(Note: Replace scores & feedback with your real results from Password Meter.)*
-
 ---
 
 ## 📷 Screenshots
